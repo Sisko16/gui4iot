@@ -1,0 +1,17 @@
+{
+  "name": "gui4iot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dash.js",
+  "dependencies": {
+    "@google-cloud/storage": "^2.4.2",
+    "firebase": "^5.8.2",
+    "serialport": "^7.1.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
