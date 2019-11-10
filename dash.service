@@ -1,0 +1,15 @@
+[Unit]
+
+[Service]
+ExecStart=/usr/bin/node /home/pi/gui4iot/dash.js &
+
+StandardOutput=syslog
+StandardError=syslog
+SyslogIdentifier=dash
+User=pi
+Group=pi
+
+EnvironmentFile=/home/pi/gui4iot/dash.env
+
+[Install]
+WantedBy=multi-user.target
