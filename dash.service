@@ -1,5 +1,5 @@
 [Unit]
-
+Description=Put your project description here
 [Service]
 ExecStart=/usr/bin/node /home/pi/gui4iot/dash.js &
 

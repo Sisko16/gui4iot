@@ -64,7 +64,7 @@ function processIncomingData (data) {
         feedback.sendFeedback(data);
      }
 
-     if ( data.val().controlName == "Bambi Picture" ){
+     if ( data.val().controlName == "Take Picture" ){
 
         camera.takePicture();
         camera.uploadPicture();
