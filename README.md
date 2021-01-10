@@ -1,6 +1,4 @@
-Welcome to gui4iot and thanks for using GUYP!
+Thanks for using GUYP the GUI maker for your hobby projects
 
-Demo project for the Android app GUYP  
-Guide for the app here: https://gui4iot.com  
-Guide for the demo project here: https://gui4iot-project.netlify.com/  
-
+Demo project: https://gui4iot-project.netlify.com/
+Android app guide: https://gui4iot.com
